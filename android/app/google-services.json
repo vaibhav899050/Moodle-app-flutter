@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561867836166",
+    "project_id": "flutter-bd1fc",
+    "storage_bucket": "flutter-bd1fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561867836166:android:4326af459e32fae2ebac87",
+        "android_client_info": {
+          "package_name": "com.example.moodle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwb3KtXTi-st2auATxiD1ERRhWB49Fl1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
